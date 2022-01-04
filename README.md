@@ -10,6 +10,7 @@ Articles:
 - [Types of Cybercrime and How to Protect Yourself Against Them](https://securitytrails.com/blog/types-of-cyber-crime)
 - [Zero Trust Model: What’s a Zero Trust Network in Cyber Security?](https://securitytrails.com/blog/what-is-zero-trust-security)
 - [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
+- [How to prepare for PWK/OSCP, a noob-friendly guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 
 Videos:
 - [Nikto Web Vulnerability Scanner](https://www.youtube.com/watch?v=GH9qn_DBzCk)
