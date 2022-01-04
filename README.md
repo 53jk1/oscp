@@ -7,6 +7,7 @@ Sources I use to prepare for the OSCP PEN-200.
 - [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)
 - [Types of Cybercrime and How to Protect Yourself Against Them](https://securitytrails.com/blog/types-of-cyber-crime)\
 - [Zero Trust Model: What’s a Zero Trust Network in Cyber Security?](https://securitytrails.com/blog/what-is-zero-trust-security)
+- [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
 
 # What to learn?
 ## First day
