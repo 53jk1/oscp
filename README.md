@@ -1,5 +1,7 @@
 # Resources
 Sources I use to prepare for the OSCP PEN-200.
+
+Articles:
 - [PEN-200 Labs Learning Path](https://help.offensive-security.com/hc/en-us/articles/360050473812-PEN-200-Labs-Learning-Path)
 - [Traditional methods of Information gathering](https://www.javatpoint.com/traditional-methods-of-information-gathering)
 - [What is Privilege Escalation? Types, Techniques and Prevention](https://securitytrails.com/blog/privilege-escalation)
@@ -8,6 +10,9 @@ Sources I use to prepare for the OSCP PEN-200.
 - [Types of Cybercrime and How to Protect Yourself Against Them](https://securitytrails.com/blog/types-of-cyber-crime)
 - [Zero Trust Model: What’s a Zero Trust Network in Cyber Security?](https://securitytrails.com/blog/what-is-zero-trust-security)
 - [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
+
+Videos:
+- [Nikto Web Vulnerability Scanner](https://www.youtube.com/watch?v=GH9qn_DBzCk)
 
 # What to learn?
 ## First day
