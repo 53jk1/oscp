@@ -14,6 +14,9 @@ Articles:
 Videos:
 - [Nikto Web Vulnerability Scanner](https://www.youtube.com/watch?v=GH9qn_DBzCk)
 
+Cheatsheet:
+- [Reverse Sheel Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+
 # What to learn?
 ## First day
 - Active Information Gathering
