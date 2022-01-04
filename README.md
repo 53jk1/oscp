@@ -19,3 +19,5 @@ Sources I use to prepare for the OSCP PEN-200.
 - File Transfers
 - POP3
 - SSH
+- Vertical privilege escalation
+- Horizontal privilege escalation
