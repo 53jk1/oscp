@@ -5,7 +5,7 @@ Sources I use to prepare for the OSCP PEN-200.
 - [What is Privilege Escalation? Types, Techniques and Prevention](https://securitytrails.com/blog/privilege-escalation)
 - [Cybersecurity Red Team Versus Blue Team — Main Differences Explained](https://securitytrails.com/blog/cybersecurity-red-blue-team#what-is-a-blue-team)
 - [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)
-- [Types of Cybercrime and How to Protect Yourself Against Them](https://securitytrails.com/blog/types-of-cyber-crime)\
+- [Types of Cybercrime and How to Protect Yourself Against Them](https://securitytrails.com/blog/types-of-cyber-crime)
 - [Zero Trust Model: What’s a Zero Trust Network in Cyber Security?](https://securitytrails.com/blog/what-is-zero-trust-security)
 - [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
 
