@@ -4,6 +4,7 @@ Sources I use to prepare for the OSCP PEN-200.
 - [Traditional methods of Information gathering](https://www.javatpoint.com/traditional-methods-of-information-gathering)
 - [What is Privilege Escalation? Types, Techniques and Prevention](https://securitytrails.com/blog/privilege-escalation)
 - [Cybersecurity Red Team Versus Blue Team — Main Differences Explained](https://securitytrails.com/blog/cybersecurity-red-blue-team#what-is-a-blue-team)
+- [Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)
 
 # What to learn?
 ## First day
