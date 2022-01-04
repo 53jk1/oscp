@@ -28,3 +28,4 @@ Sources I use to prepare for the OSCP PEN-200.
 - Blue Team
 - Access token manipulation
 - Bypassing user account control
+- How to prevent a privilege escalation attack
