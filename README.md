@@ -26,3 +26,5 @@ Sources I use to prepare for the OSCP PEN-200.
 - Privilege escalation techniques
 - Red Team
 - Blue Team
+- Access token manipulation
+- Bypassing user account control
