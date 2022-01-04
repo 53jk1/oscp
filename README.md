@@ -21,3 +21,4 @@ Sources I use to prepare for the OSCP PEN-200.
 - SSH
 - Vertical privilege escalation
 - Horizontal privilege escalation
+- Privilege escalation techniques
