@@ -42,3 +42,4 @@ Sources I use to prepare for the OSCP PEN-200.
 - SMTP
 - AD
 - SPN
+- Active Directory Attacks
