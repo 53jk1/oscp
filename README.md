@@ -31,3 +31,14 @@ Sources I use to prepare for the OSCP PEN-200.
 - Access token manipulation
 - Bypassing user account control
 - How to prevent a privilege escalation attack
+- Web Application Attacks
+- FTP
+- IIS
+- SMB
+- HTTP
+- RCE
+- Web App
+- Oracle DB
+- SMTP
+- AD
+- SPN
