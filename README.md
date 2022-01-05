@@ -19,7 +19,7 @@ Cheatsheet:
 - [Reverse Sheel Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
 # What to learn?
-## First day
+## Day 1
 - Active Information Gathering
 - Using Public Exploits
 - Privilege Escalation
@@ -28,7 +28,7 @@ Cheatsheet:
 - How web server works
 - What is Web Server made of
 
-## Second Day
+## Day 2
 - Metasploit Framework
 - File Transfers
 - POP3
@@ -56,5 +56,12 @@ Cheatsheet:
 - Port Redirection and Tunneling
 - Antivirus Evasion
 
-## Third Day
+## Day 3
 - Kali Linux
+- Networking
+- Intro to LAN
+- Reverse Shell in PHP
+- Netcat
+- LAN Topologies
+- Subnetting
+- ARP
