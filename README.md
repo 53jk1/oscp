@@ -55,3 +55,6 @@ Cheatsheet:
 - Active Directory Attacks
 - Port Redirection and Tunneling
 - Antivirus Evasion
+
+## Third Day
+- Kali Linux
