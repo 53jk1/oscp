@@ -67,3 +67,9 @@ Cheatsheet:
 - ARP
 - DHCP
 - Nmap
+- Well-known Ports (1024 btw)
+- ICMP Network Scanning
+- TCP Connect Scans
+- SYN Scans
+- UDP Scans
+- NULL, FIN, Xmas Scans (to avoid firewall)
