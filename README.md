@@ -74,3 +74,4 @@ Cheatsheet:
 - UDP Scans
 - NULL, FIN, Xmas Scans (to avoid firewall)
 - NSE Scripts
+- Firewall Evasion
