@@ -88,3 +88,4 @@ Cheatsheet:
 - XXE Attack
 - XSS
 - Cookies
+- Crypto
