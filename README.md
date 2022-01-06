@@ -75,3 +75,6 @@ Cheatsheet:
 - NULL, FIN, Xmas Scans (to avoid firewall)
 - NSE Scripts
 - Firewall Evasion
+
+## Day 4
+- DNS
