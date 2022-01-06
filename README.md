@@ -83,3 +83,4 @@ Cheatsheet:
 - Windows Fundamentals
 - Introductory Networking
 - OSI Model
+- Web Fundamentals
