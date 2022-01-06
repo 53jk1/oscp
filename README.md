@@ -89,3 +89,5 @@ Cheatsheet:
 - XSS
 - Cookies
 - Crypto
+- Linux PrivEsc
+- Basic Pentesting
