@@ -87,3 +87,4 @@ Cheatsheet:
 - OWASP Top 10
 - XXE Attack
 - XSS
+- Cookies
