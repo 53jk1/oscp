@@ -84,3 +84,4 @@ Cheatsheet:
 - Introductory Networking
 - OSI Model
 - Web Fundamentals
+- OWASP Top 10
