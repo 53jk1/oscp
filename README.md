@@ -78,3 +78,6 @@ Cheatsheet:
 
 ## Day 4
 - DNS
+- HTTP
+- Linux Fundamentals
+- Windows Fundamentals
