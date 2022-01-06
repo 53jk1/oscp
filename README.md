@@ -81,3 +81,5 @@ Cheatsheet:
 - HTTP
 - Linux Fundamentals
 - Windows Fundamentals
+- Introductory Networking
+- OSI Model
