@@ -85,3 +85,4 @@ Cheatsheet:
 - OSI Model
 - Web Fundamentals
 - OWASP Top 10
+- XXE Attack
