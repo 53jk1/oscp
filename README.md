@@ -91,3 +91,6 @@ Cheatsheet:
 - Crypto
 - Linux PrivEsc
 - Basic Pentesting
+
+## Day 5
+- More Linux PrivEsc
