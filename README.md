@@ -94,3 +94,6 @@ Cheatsheet:
 
 ## Day 5
 - More Linux PrivEsc
+
+## Day 6
+- Nessus
