@@ -103,3 +103,6 @@ Cheatsheet:
 - Privesc
 - Webappsec
 - Compromising Webserver
+- Burpsuit
+- Intercept
+- Payloads
