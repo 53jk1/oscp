@@ -18,6 +18,9 @@ Videos:
 Cheatsheet:
 - [Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
+Practice:
+- [TryHackMe](https://tryhackme.com)
+
 # What to learn?
 ## Day 1
 - Active Information Gathering
