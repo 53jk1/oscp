@@ -97,3 +97,9 @@ Cheatsheet:
 
 ## Day 6
 - Nessus
+
+## Day 7
+- Recon
+- Privesc
+- Webappsec
+- Compromising Webserver
