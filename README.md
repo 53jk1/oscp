@@ -116,8 +116,8 @@ Practice:
 - Basic Pentesting
 - Brute Forcing
 - Hash Cracking
-- Service Enukmeration
-- Linux enumeration
+- Service Enumeration
+- Linux Enumeration
 - Enumerate Samba
 - Path Variable Manipulation
 - Metasploit - Searchsploit
