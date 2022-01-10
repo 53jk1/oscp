@@ -109,3 +109,22 @@ Practice:
 - Burpsuit
 - Intercept
 - Payloads
+
+## Day 8
+- Hydra
+- More PHP Reverse Shell
+- Basic Pentesting
+- Brute Forcing
+- Hash Cracking
+- Service Enukmeration
+- Linux enumeration
+- Enumerate Samba
+- Path Variable Manipulation
+- Metasploit - Searchsploit
+- Web Exploitation
+- Network Exploitation
+- OSINT
+- Cloud Hacking
+- Defensive Blue Teaming
+- More BurpSuite
+- More XSS (DOM based XSS)
