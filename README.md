@@ -128,3 +128,8 @@ Practice:
 - Defensive Blue Teaming
 - More BurpSuite
 - More XSS (DOM based XSS)
+
+## Day 9
+- Google Dorking
+- Crawlers
+- Recapping
