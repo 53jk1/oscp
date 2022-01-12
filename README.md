@@ -138,3 +138,4 @@ Practice:
 - Python
 - Django
 - Pentesting Fundamentals
+- Ethics and methodologies for pentesting
