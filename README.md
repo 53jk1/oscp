@@ -137,3 +137,4 @@ Practice:
 ## Day 10
 - Python
 - Django
+- Pentesting Fundamentals
