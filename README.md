@@ -133,3 +133,7 @@ Practice:
 - Google Dorking
 - Crawlers
 - Recapping
+
+## Day 10
+- Python
+- Django
