@@ -24,6 +24,10 @@ Cheatsheet:
 Practice:
 - [TryHackMe](https://tryhackme.com)
 
+Frameworks:
+- [NIST Cybersecurity Framework 1.1](https://www.nist.gov/cyberframework)
+- [CAF](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance)
+
 # What to learn?
 ## Day 1
 - Active Information Gathering
@@ -145,3 +149,5 @@ Practice:
 
 ## Day 11
 - OSSTMM
+- VoIP
+- NCSC CAF
