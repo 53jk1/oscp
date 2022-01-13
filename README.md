@@ -12,6 +12,9 @@ Articles:
 - [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
 - [How to prepare for PWK/OSCP, a noob-friendly guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
 
+PDFs: 
+- [OSSTMM 3](https://www.isecom.org/OSSTMM.3.pdf)
+
 Videos:
 - [Nikto Web Vulnerability Scanner](https://www.youtube.com/watch?v=GH9qn_DBzCk)
 
@@ -139,3 +142,6 @@ Practice:
 - Django
 - Pentesting Fundamentals
 - Ethics and methodologies for pentesting
+
+## Day 11
+- OSSTMM
