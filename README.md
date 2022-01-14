@@ -151,3 +151,6 @@ Frameworks:
 - OSSTMM
 - VoIP
 - NCSC CAF
+
+## Day 12
+- More Burp Suite
