@@ -157,3 +157,6 @@ Frameworks:
 
 ## Day 13
 - Crawlers, how they work, what they do
+
+## Day 14
+- More about crawlers
