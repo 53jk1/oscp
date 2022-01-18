@@ -163,3 +163,6 @@ Frameworks:
 
 ## Day 15
 - More Google Dorking, Crawlers and SEO
+
+## Day 16
+- robots.txt
