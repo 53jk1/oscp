@@ -166,3 +166,6 @@ Frameworks:
 
 ## Day 16
 - robots.txt
+
+## Day 17
+- sitemap.xml
