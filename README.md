@@ -169,3 +169,7 @@ Frameworks:
 
 ## Day 17
 - sitemap.xml
+
+## Day 18
+- Working with Crawlers, getting to know how to allow, disallow, most common bots
+- Sitemap configuration
