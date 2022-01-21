@@ -173,3 +173,7 @@ Frameworks:
 ## Day 18
 - Working with Crawlers, getting to know how to allow, disallow, most common bots
 - Sitemap configuration
+
+## Day 19
+- Unix/Linux system configuration file
+- .conf structure
