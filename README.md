@@ -193,3 +193,4 @@ Frameworks:
 - sqli
 - python exploit
 - vim usage (no joking)
+- CVE-2019-9053
