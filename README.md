@@ -190,3 +190,6 @@ Frameworks:
 - searchsploit usage
 - CMS
 - CVE
+- sqli
+- python exploit
+- vim usage (no joking)
