@@ -177,3 +177,9 @@ Frameworks:
 ## Day 19
 - Unix/Linux system configuration file
 - .conf structure
+
+## Day 20
+- Bash scripting
+- More about Sitemaps
+- Linux most common configurations
+- Practice with a little more advanced Linux commands
