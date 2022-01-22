@@ -184,3 +184,9 @@ Frameworks:
 - Linux most common configurations
 - Practice with a little more advanced Linux commands
 - Simple CTF to refresh knowledge in "practice". :)
+- nmap practice (TCP SYN scan) (Version detection) (Aggressive scan options)
+- ssh
+- gobuster
+- searchsploit usage
+- CMS
+- CVE
