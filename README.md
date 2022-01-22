@@ -183,3 +183,4 @@ Frameworks:
 - More about Sitemaps
 - Linux most common configurations
 - Practice with a little more advanced Linux commands
+- Simple CTF to refresh knowledge in "practice". :)
