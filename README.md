@@ -194,3 +194,7 @@ Frameworks:
 - python exploit
 - vim usage (no joking)
 - CVE-2019-9053
+
+## Day 21
+- Google dorking
+- Sitemaps
