@@ -198,3 +198,8 @@ Frameworks:
 ## Day 21
 - Google dorking
 - Sitemaps
+
+## Day 22
+- More Google Dorking
+- More Sitemaps
+- Routing
