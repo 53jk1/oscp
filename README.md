@@ -203,3 +203,8 @@ Frameworks:
 - More Google Dorking
 - More Sitemaps
 - Routing
+
+## Day 23
+- Setting up Kali VM
+- Stages of penetration testing
+- More about Information Gathering
