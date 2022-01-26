@@ -208,3 +208,11 @@ Frameworks:
 - Setting up Kali VM
 - Stages of penetration testing
 - More about Information Gathering
+
+## Day 24
+- Bash programming
+- Powercat, how is it, how it works.
+- PowerShell
+- Deploying remote ReverseShell on Windows
+- Pentesting Fundamentals
+- Hacking telecommunications with OSSTMM
