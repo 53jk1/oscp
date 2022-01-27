@@ -216,3 +216,6 @@ Frameworks:
 - Deploying remote ReverseShell on Windows
 - Pentesting Fundamentals
 - Hacking telecommunications with OSSTMM
+
+## Day 25
+- OWASP again
