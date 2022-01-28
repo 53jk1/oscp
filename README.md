@@ -222,3 +222,7 @@ Frameworks:
 
 ## Day 26
 - Black box, White box, Grey box Penetration Testing 
+
+## Day 27
+- Pentesting Fundamentals
+- More about white box Penetration Testing
