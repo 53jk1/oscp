@@ -226,3 +226,11 @@ Frameworks:
 ## Day 27
 - Pentesting Fundamentals
 - More about white box Penetration Testing
+
+## Day 28
+- Started PWK Labs
+- Reading really big PDF I received from Offensive Security.
+- Using Google for Advanced Searching
+- Google Dorking
+- Flood defences
+- More advanced CLI operations
