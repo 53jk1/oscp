@@ -234,3 +234,8 @@ Frameworks:
 - Google Dorking
 - Flood defences
 - More advanced CLI operations
+
+## Day 29
+- CLI
+- Practical Tools
+- HTTP Statuses
