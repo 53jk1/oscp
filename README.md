@@ -239,3 +239,11 @@ Frameworks:
 - CLI
 - Practical Tools
 - HTTP Statuses
+
+## Day 30
+- Sockets
+- Socat
+- RCE
+- Netcat
+- Bind shells
+- Reverse shells
