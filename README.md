@@ -247,3 +247,9 @@ Frameworks:
 - Netcat
 - Bind shells
 - Reverse shells
+
+## Day 31
+- a high level programming language (i.e. Python)
+- basic Linux skills
+- networking background
+- A repetition of all that I have learned up to now.
