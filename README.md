@@ -253,3 +253,9 @@ Frameworks:
 - basic Linux skills
 - networking background
 - A repetition of all that I have learned up to now.
+
+## Day 32
+- Connecting to TCP/UDP port
+- Listening on TCP/UDP port
+- Transfering files with Netcat
+- Remote Administration with Netcat
