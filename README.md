@@ -259,3 +259,6 @@ Frameworks:
 - Listening on TCP/UDP port
 - Transfering files with Netcat
 - Remote Administration with Netcat
+
+## Day 33
+- The CIA Triad
