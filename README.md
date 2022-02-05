@@ -262,3 +262,13 @@ Frameworks:
 
 ## Day 33
 - The CIA Triad
+
+## Day 34
+- PrivEsc on Windows
+- Binding Shells
+- Reverse Shells
+- Powercat <- this is awesome tool!
+- Netcat
+- Practical Tools generally
+- Repetition of material
+- Tomorrow I will move on Wireshark
