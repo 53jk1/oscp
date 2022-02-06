@@ -11,6 +11,7 @@ Articles:
 - [Zero Trust Model: What’s a Zero Trust Network in Cyber Security?](https://securitytrails.com/blog/what-is-zero-trust-security)
 - [A Path to Success in the PWK Labs](https://www.offensive-security.com/offsec/pwk-labs-success/)
 - [How to prepare for PWK/OSCP, a noob-friendly guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
+- [How to Filter by Port with Wireshark](https://www.alphr.com/wireshark-filter-port/)
 
 PDFs: 
 - [OSSTMM 3](https://www.isecom.org/OSSTMM.3.pdf)
