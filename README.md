@@ -282,3 +282,7 @@ Frameworks:
 ## Day 36
 - tcpdump
 - [tcpdump cheatsheet](./tcpdump.txt)
+
+## Day 37
+- Breaking Ciphers
+- Bash Scripting
