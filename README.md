@@ -286,3 +286,7 @@ Frameworks:
 ## Day 37
 - Breaking Ciphers
 - Bash Scripting
+
+## Day 38
+- [Ping sweep](https://nudesystems.com/code-a-ping-sweep-script-in-linux-in-5-minutes/)
+- Bash Scripting
