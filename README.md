@@ -290,3 +290,6 @@ Frameworks:
 ## Day 38
 - [Ping sweep](https://nudesystems.com/code-a-ping-sweep-script-in-linux-in-5-minutes/)
 - Bash Scripting
+
+## Day 39
+- Usage of whois command
