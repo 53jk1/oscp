@@ -293,3 +293,8 @@ Frameworks:
 
 ## Day 39
 - Usage of whois command
+
+## Day 40
+- GHDB
+- Usage of GHDB on Megacorp One
+- [Some notes to read](https://github.com/pcsprau-snl/myPublicRepo/wiki/MegaCorp-One-Notes)
