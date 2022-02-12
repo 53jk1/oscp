@@ -298,3 +298,7 @@ Frameworks:
 - GHDB
 - Usage of GHDB on Megacorp One
 - [Some notes to read](https://github.com/pcsprau-snl/myPublicRepo/wiki/MegaCorp-One-Notes)
+
+## Day 41
+- Gitleaks
+- Shodan
