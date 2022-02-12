@@ -302,3 +302,4 @@ Frameworks:
 ## Day 41
 - Gitleaks
 - Shodan
+- Security Headers Scanner
