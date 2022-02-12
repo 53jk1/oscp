@@ -303,3 +303,5 @@ Frameworks:
 - Gitleaks
 - Shodan
 - [Security Headers Scanner](https://securityheaders.com/)
+- Pastebin
+- User Information Gathering
