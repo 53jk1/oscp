@@ -305,3 +305,4 @@ Frameworks:
 - [Security Headers Scanner](https://securityheaders.com/)
 - Pastebin
 - User Information Gathering
+- [Email harvesting](https://www.kali.org/tools/theharvester/)
