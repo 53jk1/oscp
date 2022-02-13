@@ -313,3 +313,5 @@ Frameworks:
 - linkedin2username
 - StackOverflow
 - [OSINT Framework](https://osintframework.com/)
+- Maltego
+- Tomorrow I will move on Active Information Gathering
