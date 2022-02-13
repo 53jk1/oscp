@@ -306,3 +306,10 @@ Frameworks:
 - Pastebin
 - User Information Gathering
 - [Email harvesting](https://www.kali.org/tools/theharvester/)
+
+## Day 42
+- Social-Searcher
+- Twofi
+- linkedin2username
+- StackOverflow
+- [OSINT Framework](https://osintframework.com/)
