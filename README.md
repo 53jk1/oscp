@@ -344,3 +344,4 @@ Frameworks:
 - [Nmap Scripting Engine (NSE)](https://nmap.org/book/nse.html)
 - [Nmap - Host Discovery With Ping Sweep](https://www.youtube.com/watch?v=LvCDaftsMwI)
 - Wireshark
+- [Masscan](https://tools.kali.org/information-gathering/masscan)
