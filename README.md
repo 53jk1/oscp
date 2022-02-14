@@ -317,7 +317,7 @@ Frameworks:
 - Tomorrow I will move on Active Information Gathering
 
 ## Day 43
-- Active Information Gathering
+- [Active Information Gathering](https://github.com/muckitymuck/OSCP-Study-Guide/blob/master/enumeration/active_information_gathering.md)
 - [DNS Zone Transfers](https://digi.ninja/projects/zonetransferme.php)
 - Bash Scripting
 - DNS
@@ -325,3 +325,11 @@ Frameworks:
 - Automate DNS Enumeration
 - [DNSRecon](https://github.com/darkoperator/dnsrecon)
 - DNSenum
+- Port Scanning
+- TCP/UDP Scanning
+- Netcat again
+- [ICMP](https://kisi.pcz.pl/Robert_Nowicki/psk-d/Lab5.pdf)
+- [NMap](http://nmap.org/)
+- [Raw sockets](https://man7.org/linux/man-pages/man7/raw.7.html)
+- [Socket API Functions](https://en.wikipedia.org/wiki/Berkeley_sockets#Socket_API_functions)
+- [iptables](https://netfilter.org/projects/iptables/index.html)
