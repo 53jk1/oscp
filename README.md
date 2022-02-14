@@ -345,3 +345,6 @@ Frameworks:
 - [Nmap - Host Discovery With Ping Sweep](https://www.youtube.com/watch?v=LvCDaftsMwI)
 - Wireshark
 - [Masscan](https://tools.kali.org/information-gathering/masscan)
+- [Server Message Block](https://en.wikipedia.org/wiki/Server_Message_Block)
+- SMB Enumeration
+- Scanning for the NetBIOS Service
