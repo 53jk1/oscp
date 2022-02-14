@@ -318,7 +318,7 @@ Frameworks:
 
 ## Day 43
 - Active Information Gathering
-- [DNS Zone Transfers](zonetransfer.me)
+- [DNS Zone Transfers](https://digi.ninja/projects/zonetransferme.php)
 - Bash Scripting
 - DNS
 - Types of DNS records
