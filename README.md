@@ -323,5 +323,5 @@ Frameworks:
 - DNS
 - Types of DNS records
 - Automate DNS Enumeration
-- DNSRecon
+- [DNSRecon](https://github.com/darkoperator/dnsrecon)
 - DNSenum
