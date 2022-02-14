@@ -342,3 +342,4 @@ Frameworks:
 - [Host Discovery](https://nmap.org/book/man-host-discovery.html)
 - Banner Grabbing/Service Enumeration
 - [Nmap Scripting Engine (NSE)](https://nmap.org/book/nse.html)
+- [Nmap - Host Discovery With Ping Sweep](https://www.youtube.com/watch?v=LvCDaftsMwI)
