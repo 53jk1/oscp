@@ -349,3 +349,7 @@ Frameworks:
 - SMB Enumeration
 - Scanning for the NetBIOS Service
 - [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS)
+- [MS08-067](https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2008/ms08-067?redirectedfrom=MSDN)
+- [Network File System](https://en.wikipedia.org/wiki/Network_File_System)
+- [Portmap](https://en.wikipedia.org/wiki/Portmap)
+- [NFS and rpcbind](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/storage_administration_guide/s2-nfs-methodology-portmap)
