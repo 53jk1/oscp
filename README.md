@@ -315,3 +315,13 @@ Frameworks:
 - [OSINT Framework](https://osintframework.com/)
 - Maltego
 - Tomorrow I will move on Active Information Gathering
+
+## Day 43
+- Active Information Gathering
+- DNS Zone Transfers
+- Bash Scripting
+- DNS
+- Types of DNS records
+- Automate DNS Enumeration
+- DNSRecon
+- DNSenum
