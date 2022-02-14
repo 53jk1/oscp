@@ -348,3 +348,4 @@ Frameworks:
 - [Server Message Block](https://en.wikipedia.org/wiki/Server_Message_Block)
 - SMB Enumeration
 - Scanning for the NetBIOS Service
+- [NetBIOS](https://en.wikipedia.org/wiki/NetBIOS)
