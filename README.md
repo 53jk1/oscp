@@ -333,3 +333,12 @@ Frameworks:
 - [Raw sockets](https://man7.org/linux/man-pages/man7/raw.7.html)
 - [Socket API Functions](https://en.wikipedia.org/wiki/Berkeley_sockets#Socket_API_functions)
 - [iptables](https://netfilter.org/projects/iptables/index.html)
+- [Stealth / SYN Scanning](https://nmap.org/book/synscan.html)
+- [TCP Connect Scanning](https://nmap.org/book/scan-methods-connect-scan.html)
+- [UDP Scanning](https://nmap.org/book/scan-methods-udp-scan.html)
+- Network Sweeping
+- [OS Detect](https://nmap.org/book/osdetect.html)
+- [nmap-services](https://nmap.org/book/nmap-services.html)
+- [Host Discovery](https://nmap.org/book/man-host-discovery.html)
+- Banner Grabbing/Service Enumeration
+- [Nmap Scripting Engine (NSE)](https://nmap.org/book/nse.html)
