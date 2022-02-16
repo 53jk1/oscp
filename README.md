@@ -356,3 +356,6 @@ Frameworks:
 
 ## Day 44
 - Shodan
+
+## Day 45
+- SMTP Enumeration
