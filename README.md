@@ -359,3 +359,7 @@ Frameworks:
 
 ## Day 45
 - SMTP Enumeration
+
+## Day 46
+- [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
+- Using Python to script the SMTP user enumeration
