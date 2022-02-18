@@ -363,3 +363,8 @@ Frameworks:
 ## Day 46
 - [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
 - Using Python to script the SMTP user enumeration
+
+## Day 47
+- [MIB](https://www.ibm.com/docs/en/aix/7.1?topic=management-information-base)
+- [onesixtyone](http://www.phreedom.org/software/onesixtyone/)
+- [Exploring SNMP Servers](https://medium.com/@minimalist.ascent/exploring-snmp-servers-with-nmap-54eb27dade5f)
