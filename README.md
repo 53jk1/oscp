@@ -368,3 +368,4 @@ Frameworks:
 - [MIB](https://www.ibm.com/docs/en/aix/7.1?topic=management-information-base)
 - [onesixtyone](http://www.phreedom.org/software/onesixtyone/)
 - [Exploring SNMP Servers](https://medium.com/@minimalist.ascent/exploring-snmp-servers-with-nmap-54eb27dade5f)
+- [Find SNMP Community String using Onesixtyone: Pentest SNMP](https://thedarksource.com/find-snmp-community-string-using-onesixtyone/)
