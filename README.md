@@ -382,3 +382,4 @@ Frameworks:
 - [False Positive](https://www.cgisecurity.com/questions/falsepositive.shtml)
 - [False Negative](https://www.cgisecurity.com/questions/falsenegative.shtml)
 - [Security Backporting Practice](https://access.redhat.com/security/updates/backporting)
+- [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
