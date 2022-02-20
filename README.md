@@ -370,3 +370,11 @@ Frameworks:
 - [Exploring SNMP Servers](https://medium.com/@minimalist.ascent/exploring-snmp-servers-with-nmap-54eb27dade5f)
 - [Find SNMP Community String using Onesixtyone: Pentest SNMP](https://thedarksource.com/find-snmp-community-string-using-onesixtyone/)
 - [snmpcheck](https://www.kali.org/tools/snmpcheck/)
+
+## Day 48
+- Chillout
+
+## Day 49
+- Scanning network with onesixtyone to identify any SNMP servers.
+- Using snmpwalk and snmp-check to gather information.
+- Vuln scanning
