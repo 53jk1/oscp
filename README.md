@@ -378,3 +378,4 @@ Frameworks:
 - Scanning network with onesixtyone to identify any SNMP servers.
 - Using snmpwalk and snmp-check to gather information.
 - Vuln scanning
+- [Towards automatic generation of vulnerability-based signatures](https://ieeexplore.ieee.org/document/1623997)
