@@ -379,3 +379,6 @@ Frameworks:
 - Using snmpwalk and snmp-check to gather information.
 - Vuln scanning
 - [Towards automatic generation of vulnerability-based signatures](https://ieeexplore.ieee.org/document/1623997)
+- [False Positive](https://www.cgisecurity.com/questions/falsepositive.shtml)
+- [False Negative](https://www.cgisecurity.com/questions/falsenegative.shtml)
+- [Security Backporting Practice](https://access.redhat.com/security/updates/backporting)
