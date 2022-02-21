@@ -384,3 +384,10 @@ Frameworks:
 - [Security Backporting Practice](https://access.redhat.com/security/updates/backporting)
 - [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
 - Authenticated vs Unauthenticated Scanning
+
+## Day 50
+- [Discovery Scan Settings](https://docs.tenable.com/nessus/Content/DiscoverySettings.htm#HostDiscovery)
+- [man host discovery](https://nmap.org/book/man-host-discovery.html)
+- [WMI](https://docs.microsoft.com/en-us/windows/win32/wmisdk/about-wmi)
+- [How User Account Control works](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works)
+- [Nessus](https://www.tenable.com/products/nessus)
