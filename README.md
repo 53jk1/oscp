@@ -400,3 +400,4 @@ Frameworks:
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [jQuery](https://jquery.com/)
 - [Minification](https://en.wikipedia.org/wiki/Minification)
+- [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
