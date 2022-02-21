@@ -396,3 +396,4 @@ Frameworks:
 - [Spectre](https://en.wikipedia.org/wiki/Spectre)
 - [Meltdown](https://en.wikipedia.org/wiki/Meltdown)
 - [NMAP NSE](https://nmap.org/book/nse.html)
+- [NSE Language](https://nmap.org/book/nse-language.html)
