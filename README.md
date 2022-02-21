@@ -391,3 +391,5 @@ Frameworks:
 - [WMI](https://docs.microsoft.com/en-us/windows/win32/wmisdk/about-wmi)
 - [How User Account Control works](https://docs.microsoft.com/en-us/windows/security/identity-protection/user-account-control/how-user-account-control-works)
 - [Nessus](https://www.tenable.com/products/nessus)
+- [Nessus security tool closes its source](https://www.cnet.com/tech/tech-industry/nessus-security-tool-closes-its-source/)
+- [OpenVAS](https://www.openvas.org/)
