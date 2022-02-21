@@ -393,3 +393,5 @@ Frameworks:
 - [Nessus](https://www.tenable.com/products/nessus)
 - [Nessus security tool closes its source](https://www.cnet.com/tech/tech-industry/nessus-security-tool-closes-its-source/)
 - [OpenVAS](https://www.openvas.org/)
+- [Spectre](https://en.wikipedia.org/wiki/Spectre)
+- [Meltdown](https://en.wikipedia.org/wiki/Meltdown)
