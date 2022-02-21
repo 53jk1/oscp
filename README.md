@@ -398,3 +398,5 @@ Frameworks:
 - [NMAP NSE](https://nmap.org/book/nse.html)
 - [NSE Language](https://nmap.org/book/nse-language.html)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [jQuery](https://jquery.com/)
+- [Minification](https://en.wikipedia.org/wiki/Minification)
