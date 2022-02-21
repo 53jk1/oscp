@@ -395,3 +395,4 @@ Frameworks:
 - [OpenVAS](https://www.openvas.org/)
 - [Spectre](https://en.wikipedia.org/wiki/Spectre)
 - [Meltdown](https://en.wikipedia.org/wiki/Meltdown)
+- [NMAP NSE](https://nmap.org/book/nse.html)
