@@ -408,3 +408,4 @@ Frameworks:
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [DIRB](http://dirb.sourceforge.net/about.html)
 - [Burp Suite](https://portswigger.net/burp)
+- FoxyProxy
