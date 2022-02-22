@@ -407,3 +407,4 @@ Frameworks:
 - [Apache Tomcat 7](https://tomcat.apache.org/tomcat-7.0-doc/manager-howto.html)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [DIRB](http://dirb.sourceforge.net/about.html)
+- [Burp Suite](https://portswigger.net/burp)
