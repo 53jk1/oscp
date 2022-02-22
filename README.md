@@ -410,3 +410,4 @@ Frameworks:
 - [Burp Suite](https://portswigger.net/burp)
 - FoxyProxy
 - [Captive Portal](https://en.wikipedia.org/wiki/Captive_portal)
+- [Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
