@@ -409,3 +409,4 @@ Frameworks:
 - [DIRB](http://dirb.sourceforge.net/about.html)
 - [Burp Suite](https://portswigger.net/burp)
 - FoxyProxy
+- [Captive Portal](https://en.wikipedia.org/wiki/Captive_portal)
