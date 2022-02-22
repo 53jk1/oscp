@@ -401,3 +401,9 @@ Frameworks:
 - [jQuery](https://jquery.com/)
 - [Minification](https://en.wikipedia.org/wiki/Minification)
 - [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+## Day 51
+- [robots.txt](https://www.google.com/robots.txt)
+- [Apache Tomcat 7](https://tomcat.apache.org/tomcat-7.0-doc/manager-howto.html)
+- [phpMyAdmin](https://www.phpmyadmin.net/)
+- [DIRB](http://dirb.sourceforge.net/about.html)
