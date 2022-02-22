@@ -418,3 +418,4 @@ Frameworks:
 - [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery#Synchronizer_token_pattern)
 - [Payload poistions](https://portswigger.net/burp/documentation/desktop/tools/intruder/positions#attack-type)
 - [grep](https://en.wikipedia.org/wiki/Grep)
+- [Data validation](https://en.wikipedia.org/wiki/Data_validation)
