@@ -411,3 +411,5 @@ Frameworks:
 - FoxyProxy
 - [Captive Portal](https://en.wikipedia.org/wiki/Captive_portal)
 - [Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+- [Nikto](https://cirt.net/Nikto2)
+- [User-Agent](https://en.wikipedia.org/wiki/User_agent)
