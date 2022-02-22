@@ -416,3 +416,5 @@ Frameworks:
 - [Blue Team](https://en.wikipedia.org/wiki/Blue_Team)
 - [Burp Suite Intruder](https://portswigger.net/burp/documentation/desktop/tools/intruder/using)
 - [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery#Synchronizer_token_pattern)
+- [Payload poistions](https://portswigger.net/burp/documentation/desktop/tools/intruder/positions#attack-type)
+- [grep](https://en.wikipedia.org/wiki/Grep)
