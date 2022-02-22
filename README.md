@@ -414,3 +414,4 @@ Frameworks:
 - [Nikto](https://cirt.net/Nikto2)
 - [User-Agent](https://en.wikipedia.org/wiki/User_agent)
 - [Blue Team](https://en.wikipedia.org/wiki/Blue_Team)
+- [Burp Suite Intruder](https://portswigger.net/burp/documentation/desktop/tools/intruder/using)
