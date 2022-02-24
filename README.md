@@ -419,3 +419,20 @@ Frameworks:
 - [Payload poistions](https://portswigger.net/burp/documentation/desktop/tools/intruder/positions#attack-type)
 - [grep](https://en.wikipedia.org/wiki/Grep)
 - [Data validation](https://en.wikipedia.org/wiki/Data_validation)
+
+## Day 52
+- Busy...
+
+## Day 53
+- [Cross-site Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
+- [HTML element](https://en.wikipedia.org/wiki/HTML_element)
+- [Character encoding](https://en.wikipedia.org/wiki/Character_encodings_in_HTML#HTML_character_references)
+- [Percent encdoing](https://en.wikipedia.org/wiki/Percent-encoding)
+- [The Script element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
+- [Defence in depth](https://en.wikipedia.org/wiki/Defence_in_depth)
+- [php - htmlspecialchars](https://www.php.net/manual/en/function.htmlspecialchars.php)
+- [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+- [HTTP Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+- [Secure Cookie](https://en.wikipedia.org/wiki/Secure_cookie)
+- [Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Secure_and_HttpOnly_cookies)
