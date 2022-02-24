@@ -428,7 +428,7 @@ Frameworks:
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [HTML element](https://en.wikipedia.org/wiki/HTML_element)
 - [Character encoding](https://en.wikipedia.org/wiki/Character_encodings_in_HTML#HTML_character_references)
-- [Percent encdoing](https://en.wikipedia.org/wiki/Percent-encoding)
+- [Percent encoding](https://en.wikipedia.org/wiki/Percent-encoding)
 - [The Script element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
 - [Defence in depth](https://en.wikipedia.org/wiki/Defence_in_depth)
 - [php - htmlspecialchars](https://www.php.net/manual/en/function.htmlspecialchars.php)
