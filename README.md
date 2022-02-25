@@ -436,3 +436,6 @@ Frameworks:
 - [HTTP Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 - [Secure Cookie](https://en.wikipedia.org/wiki/Secure_cookie)
 - [Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Secure_and_HttpOnly_cookies)
+
+## Day 54
+- [Directory traversal attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
