@@ -439,3 +439,6 @@ Frameworks:
 
 ## Day 54
 - [Directory traversal attack](https://en.wikipedia.org/wiki/Directory_traversal_attack)
+
+## Day 55
+- [CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
