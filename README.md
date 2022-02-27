@@ -442,3 +442,7 @@ Frameworks:
 
 ## Day 55
 - [CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+
+## Day 56
+- [Directory Traversal Vulnerability Exercise](https://research.cs.wisc.edu/mist/SoftwareSecurityCourse/Exercises/3.3_Directory_Traversal_Vulnerability_Exercise.html)
+- [File inclusion vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)
