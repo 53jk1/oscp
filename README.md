@@ -449,3 +449,6 @@ Frameworks:
 
 ## Day 57
 - Privilege Escalation
+
+## Day 58
+- [TryHackMe - Vulnversity room](https://tryhackme.com/room/vulnversity)
