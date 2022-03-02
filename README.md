@@ -452,3 +452,6 @@ Frameworks:
 
 ## Day 58
 - [TryHackMe - Vulnversity room](https://tryhackme.com/room/vulnversity)
+
+## Day 59
+Too much work, haven't studied tbh, still working at 1 AM :D
