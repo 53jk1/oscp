@@ -453,5 +453,9 @@ Frameworks:
 ## Day 58
 - [TryHackMe - Vulnversity room](https://tryhackme.com/room/vulnversity)
 
-## Day 59
+## Day 59-67
 Too much work, haven't studied tbh, still working at 1 AM :D
+
+## Day 68
+- [JSFuck](https://enkhee-osiris.github.io/Decoder-JSFuck/)
+- [PHP Weak Typing Woes #8212: With Some Pontification about Code and Pen Testing](https://www.sans.org/blog/php-weak-typing-woes-8212-with-some-pontification-about-code-and-pen-testing/)
