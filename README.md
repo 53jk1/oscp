@@ -459,3 +459,4 @@ Too much work, haven't studied tbh, still working at 1 AM :D
 ## Day 68
 - [JSFuck](https://enkhee-osiris.github.io/Decoder-JSFuck/)
 - [PHP Weak Typing Woes #8212: With Some Pontification about Code and Pen Testing](https://www.sans.org/blog/php-weak-typing-woes-8212-with-some-pontification-about-code-and-pen-testing/)
+- [XOR String with Key in Python](https://opentechnotes.blogspot.com/2014/08/xor-string-with-key-in-python.html)
